@@ -1,6 +1,6 @@
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia. <br><br> Sou um apaixonado desenvolvedor front-end com expertise especializada em React, a biblioteca JavaScript líder para a construção de interfaces de usuário modernas e dinâmicas. Com um histórico comprovado na criação de experiências de usuário excepcionais, sou dedicado a transformar conceitos criativos em aplicações web robustas e intuitivas.</p>&nbsp;
 
 
  &nbsp;
